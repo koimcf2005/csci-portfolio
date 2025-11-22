@@ -9,58 +9,23 @@ Programming Projects
 ---
 ### [Remote Job Scraper | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
-
 ---
-### [Data Structure Analysis Projects (1, 2, 3)| CSCI 315](project1)
-
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Wordle Group Project | CSCI 325](project1)
-
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Senior Project (In Progress) | CSCI 497-498](project1)
-
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+### [Wordle Group Project | CSCI 325](project2)
 
 ---
 
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Information Explosion, AI, and Privacy](/pdf/ethics-235.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 235 Procedural Programming**  
+-   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Ethics of Software Development](/pdf/ethics-315.pdf)
 
--   **Class:** 
--   **Grade:**
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
----
-
-Presentations
--------------
-
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
-
-
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
+-   **Class: CSCI 315 Data Structure Analysis** 
+-   **Grade: A**
 
 ---
 
